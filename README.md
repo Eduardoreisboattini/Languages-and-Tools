@@ -17,8 +17,8 @@ Here are some of the key programming languages and tools I have utilized in my p
 - <img src="./ICONS/react.png" alt="React" width="45" height="45">
 
 #### 4. Redux
-[Redux](https://redux.js.org/) is a powerful state management library that complements React, enabling efficient management of application state in a predictable and organized manner.
-<img src="./ICONS/redux.png" alt="Redux" width="45" height="45">
+- [Redux](https://redux.js.org/) is a powerful state management library that complements React, enabling efficient management of application state in a predictable and organized manner.
+- <img src="./ICONS/redux.png" alt="Redux" width="45" height="45">
 
 #### 5. Node.js
 - [Node.js](https://nodejs.org/en) is a server-side JavaScript runtime that enables me to build scalable and fast server applications.
