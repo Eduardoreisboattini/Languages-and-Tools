@@ -71,7 +71,7 @@ Here are some of the key programming languages and tools I have utilized in my p
 #### 17. TypeScript
 
 - [TypeScript](https://www.typescriptlang.org/) is a statically-typed superset of JavaScript that compiles to plain JavaScript. It adds optional static types, interfaces, and other advanced features to help developers write more robust and maintainable code.
-- <img src="./ICONS/typescript.png" alt="Typescript" {width="45" height="45"}
+- <img src="./ICONS/typescript.png" alt="Typescript" width="45" height="45">
 
 
 These languages and tools have been instrumental in enabling me to create diverse and innovative projects, from web applications to machine learning implementations. Each technology brings its unique strengths to the table, allowing me to tackle a wide range of challenges in my programming journey.
